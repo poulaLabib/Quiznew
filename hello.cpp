@@ -3,5 +3,8 @@ using namespace std;
 
 int main(){
 
-    cout <<"helloooo";
+    cout <<"helloooo" << endl;
+
+
+    return 0;
 }
